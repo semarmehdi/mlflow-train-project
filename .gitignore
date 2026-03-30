@@ -1,0 +1,19 @@
+# Secrets / env
+.env
+secrets.sh
+source.sh
+
+# MLflow local runs
+mlruns/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# virtual envs
+.venv/
+venv/
+env/
