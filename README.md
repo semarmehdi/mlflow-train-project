@@ -138,11 +138,13 @@ python --version
 pip install --upgrade pip
 pip install mlflow==3.5.0
 ```
+### ATTENTION
+Fermez maintenant votre instance dans votre terminal avec `exit` et relancez la pour que toutes les configurations soient prises en compte. 
 
 ---
 
 ## 5. Gestion des secrets
-
+*Dans un autre terminal* 
 ### En local
 
 Créer un fichier `secrets.sh` :
