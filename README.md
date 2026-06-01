@@ -71,7 +71,7 @@ mlflow run . --experiment-name california_housing_regressor
 
 # ATTENTION :
 
--on part d'une instance EC2 t3small éligible au freetier (vous pouvez gardez tout les parametres par défaut et simplement rajouter plus de stockage tout en bas - jusqu'à 30gb - )
+- on part d'une instance EC2 t3small éligible au freetier (vous pouvez gardez tout les parametres par défaut et simplement rajouter plus de stockage tout en bas - jusqu'à 30gb - )
 
 ## 3. Setup EC2
 
@@ -138,8 +138,8 @@ python --version
 pip install --upgrade pip
 pip install mlflow==3.5.0
 ```
-### ATTENTION
-Fermez maintenant votre instance dans votre terminal avec `exit` et relancez la pour que toutes les configurations soient prises en compte. 
+# ATTENTION
+- Fermez maintenant votre instance dans votre terminal avec `exit` et relancez la pour que toutes les configurations soient prises en compte. 
 
 ---
 
